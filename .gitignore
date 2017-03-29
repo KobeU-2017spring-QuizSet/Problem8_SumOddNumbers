@@ -34,3 +34,4 @@ vignettes/*.pdf
 
 # Answer for exercise
 Answer*
+.Rproj.user
